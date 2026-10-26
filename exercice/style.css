@@ -1,0 +1,21 @@
+body{
+    width: 50vw;
+    height: 50vh;
+}
+
+.card{
+    background-color: #b0e2e9;
+    padding: 16px;
+    border-radius: 8px;
+    width: 300px;
+}
+.card img(
+    width: 100%;
+    border-radius: 8px;
+)
+.card button{
+    background-color: #1398a0;
+    padding: 8px 16px;
+    border: none;
+    
+}
